@@ -1,31 +1,26 @@
-.text-center{
-
-    text-align: center;
-    
+.text-center {
+  text-align: center;
 }
 
 .bg-red {
-
-    background:black;
-    width: fit-content;
-    padding: 10px;
-    border-radius: 10px;
+  background: black;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 10px;
 }
 
-.mx-auto{
-    margin: auto;
+.mx-auto {
+  margin: auto;
 }
 
-.flex{
+.flex {
   display: flex;
 }
 
-.flex-column{
-    flex-direction: column;
+.flex-column {
+  flex-direction: column;
 }
 
-.item-center{
-    align-items: center;
+.item-center {
+  align-items: center;
 }
-
-
